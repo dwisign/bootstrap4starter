@@ -10,18 +10,18 @@ Install Sass
 Open up your Terminal.app and type:
 
 Windows:
-gem install compass
+<pre>gem install compass</pre>
 
 Linux / OS X:
-sudo gem install compass
+<pre>sudo gem install compass</pre>
 
 CSS Parser:
-gem install css_parser
+<pre>gem install css_parser</pre>
 
 
 On your project directory run this command and let Compass do its thing:
-compass watch
+<pre>compass watch</pre>
 or
-compass compile
+<pre>compass compile</pre>
 
 
