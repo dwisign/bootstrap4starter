@@ -4,7 +4,7 @@ Bootstrap 4 Starter Template
 
 To use this starter template work on scss, follow this step:
 
-If you're on Windows, you can run the Ruby Installer. On Linux, Rails Ready provides several Ruby essentials. On OS X, Ruby is already installed by default so Ruby just works.
+If you're on Windows, you can run the Ruby <a href="https://rubyinstaller.org/" target="_blank">Installer</a>. On Linux, Rails Ready provides several Ruby essentials. On OS X, Ruby is already installed by default so Ruby just works.
 
 Install Sass
 Open up your Terminal.app and type:
