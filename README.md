@@ -20,6 +20,12 @@ CSS Parser:
 
 
 On your project directory run this command and let Compass do its thing:
+
+To start project
+<pre>compass create</pre>
+Then you can setup your configuration of name and directory compile on "config.rb" file
+
+For Compile
 <pre>compass watch</pre>
 or
 <pre>compass compile</pre>
